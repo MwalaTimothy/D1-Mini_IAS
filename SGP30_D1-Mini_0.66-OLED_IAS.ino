@@ -46,7 +46,7 @@ IOTAppStory IAS(COMPDATE, MODEBUTTON);                      // Initialize IotApp
 // ================================================ EXAMPLE VARS =========================================
 // used in this example to print variables every 10 seconds
 unsigned long printEntry;
-String deviceName = "virginsoil";
+String deviceName = "Air-Quality-Meter";
 String chipId;
 
 // We want to be able to edit these example variables below from the wifi config manager
